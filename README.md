@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # STRATFOLIO INTELLIGENCE
 
 Business intelligence and strategic research consultancy website, built with the existing Next.js App Router, TypeScript, React, and Tailwind CSS setup.
@@ -44,3 +45,7 @@ npm run build
 Four substantial hypothetical report structures and downloadable PDFs are provided under `/insights`. They are explicitly labelled as illustrative and contain no client findings or fabricated research sources. To regenerate the PDFs from the report content, run `python scripts/generate-sample-pdfs.py`.
 
 The insights library also includes original editorial guides with working article pages, category filters, full-text search, reading navigation, and related-article links. No author or publication date is displayed where that information has not been verified. Privacy and terms pages contain explicit pre-launch placeholders and are marked `noindex` until the operator completes legal review.
+=======
+# stratfolio-website
+STRATFOLIO INTELLIGENCE - Business Intelligence &amp; Growth Strategy
+>>>>>>> aa98e565bb2f09c046f52fb30d968c1b81a52035
