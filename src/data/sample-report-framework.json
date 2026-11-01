@@ -1,0 +1,92 @@
+[
+  {
+    "heading": "Executive summary",
+    "paragraphs": [
+      "A commissioned report would summarise the decision being considered, the scope examined, the most relevant evidence-backed observations, the main uncertainties, and the next decision points.",
+      "This illustrative document demonstrates a summary format only. It does not report actual market findings, verified organisations, client results, or recommendations about a real business."
+    ],
+    "bullets": [
+      "Decision question and intended audience",
+      "Scope and evidence base reviewed",
+      "Key observations with confidence and limitations",
+      "Prioritised areas for further consideration"
+    ]
+  },
+  {
+    "heading": "Scope and methodology",
+    "paragraphs": [
+      "A live engagement would state the agreed market or organisation boundaries, geographic coverage, time period, included and excluded questions, source types, and analytical approach.",
+      "Research steps should be proportionate to the decision and evidence available. This demonstration describes a possible report structure, not research performed against real organisations or sources."
+    ],
+    "bullets": [
+      "Research question and decision context",
+      "Scope, inclusion criteria, and exclusions",
+      "Public and client-supplied evidence distinguished",
+      "Review period and analysis approach"
+    ]
+  },
+  {
+    "heading": "Findings and analysis",
+    "paragraphs": [
+      "A completed report would distinguish observed information from analyst interpretation and hypotheses. Each material finding would be connected to evidence and assessed against the agreed question.",
+      "No real findings, comparisons, scores, market sizes, or business outcomes are asserted in this illustrative sample."
+    ],
+    "bullets": [
+      "Observed evidence and its source",
+      "Interpretation and relevance to the decision",
+      "Counter-signals, confidence, and open questions",
+      "No unsupported statistics or inferred private performance"
+    ]
+  },
+  {
+    "heading": "Evidence and source notes",
+    "paragraphs": [
+      "For a real research engagement, a source log can record the publisher, title, publication date, retrieval date, URL or document reference, geographic coverage, relevant claim, and known limitations.",
+      "This demonstration intentionally does not cite external sources or present its example material as verified evidence."
+    ],
+    "bullets": [
+      "Publisher and source title",
+      "Publication and retrieval dates",
+      "URL or document reference and supported claim",
+      "Source quality, coverage, and known limitations"
+    ]
+  },
+  {
+    "heading": "Limitations and uncertainties",
+    "paragraphs": [
+      "A research report should explain information gaps, source coverage, recency, conflicting claims, assumptions, and areas requiring further validation.",
+      "This illustrative document cannot establish actual demand, market size, competitor performance, partner willingness, or future results."
+    ],
+    "bullets": [
+      "Evidence gaps and unverified assumptions",
+      "Source and geographic coverage",
+      "Areas where additional research may be appropriate",
+      "No guarantee of commercial or operational outcomes"
+    ]
+  },
+  {
+    "heading": "Recommendations",
+    "paragraphs": [
+      "Recommendations in a live report should follow from documented evidence and the agreed decision criteria. Their rationale, dependencies, and uncertainties should remain visible.",
+      "No real-world recommendations or outcomes are claimed in this illustrative document."
+    ],
+    "bullets": [
+      "Prioritised recommendations tied to the research question",
+      "Evidence rationale and uncertainty for each action",
+      "Dependencies, owners, or timing only where agreed"
+    ]
+  },
+  {
+    "heading": "Proposed next steps",
+    "paragraphs": [
+      "Potential next steps may include gathering additional evidence, testing a defined hypothesis, consulting relevant specialists, or reviewing specified indicators.",
+      "A live engagement would agree responsibilities, timing, and review points with the client. This demonstration does not claim that any action has been taken or that an outcome is assured."
+    ],
+    "bullets": [
+      "Identify the most important unresolved question",
+      "Agree what additional evidence would help answer it",
+      "Set proportionate review points and decision criteria",
+      "Revisit conclusions as relevant evidence changes"
+    ]
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "slug": "market-landscape",
+    "category": "Market",
+    "title": "Market Landscape",
+    "description": "A practical framework for defining a market, organising customer segments, and documenting opportunity questions without implying unsupported market size.",
+    "question": "How should a business structure an initial assessment of an unfamiliar market before deciding whether to invest in a deeper study?",
+    "illustrativeContext": "Hypothetical demonstration: an unnamed B2B service business is considering whether to explore a new customer segment. No company, geography, market result, or customer behaviour is represented as real.",
+    "sections": [
+      {
+        "heading": "Decision brief and scope",
+        "paragraphs": [
+          "Begin with the decision the research is expected to inform, the current alternatives, and the time horizon. State what is outside the brief so that a broad market question does not become an unbounded research task.",
+          "Define the working market boundary by customer type, need or job-to-be-done, offer category, geography, and relevant time period. Treat each boundary as a scope choice to be confirmed with the commissioning team."
+        ],
+        "bullets": ["Decision owner and decision date", "Customer groups and use cases to examine", "Geographic coverage and language", "Out-of-scope segments and questions"]
+      },
+      {
+        "heading": "Segmentation hypotheses",
+        "paragraphs": [
+          "Develop candidate segments as hypotheses rather than asserted market facts. Useful segmentation dimensions may include organisation size, sector, procurement context, maturity, or urgency of need, depending on the brief.",
+          "For each segment, record why it may matter, what observable evidence could test the hypothesis, and what information is missing. Do not assign unsupported segment sizes or demand scores."
+        ],
+        "bullets": ["Hypothesis and rationale", "Evidence that could support or challenge it", "Information gaps and confidence limits", "Potential interview or validation questions"]
+      },
+      {
+        "heading": "Evidence register and source evaluation",
+        "paragraphs": [
+          "Create a source register that records publisher, title, publication date, retrieval date, URL or document reference, geographic coverage, and the claim the source can support.",
+          "Separate direct observations from interpretation. Consider source incentives, methodology, recency, scope, and whether an independent source corroborates material claims. A published estimate is not automatically a verified market fact."
+        ],
+        "bullets": ["Attributable public sources selected for the scope", "Client-provided context clearly identified as supplied information", "Source-level limitations and conflicts", "Claims requiring confirmation before decision use"]
+      },
+      {
+        "heading": "Analytical structure",
+        "paragraphs": [
+          "Compare segment hypotheses against agreed decision criteria such as strategic fit, accessibility of evidence, operational requirements, and unresolved assumptions. Use qualitative assessment unless defensible quantitative inputs are available.",
+          "When comparing alternatives, document the criteria and rationale. Avoid rankings or composite scores that imply measurement precision not present in the evidence."
+        ],
+        "bullets": ["Market boundary and category definitions", "Segment comparison against agreed criteria", "Signals, counter-signals, and evidence gaps", "Decision implications and follow-up research"]
+      },
+      {
+        "heading": "Illustrative synthesis format",
+        "paragraphs": [
+          "A report can present a concise landscape map, a segment hypothesis table, evidence notes, and a short list of questions for further validation. This demonstration intentionally contains no market-size figures, real findings, or external sources.",
+          "Any eventual conclusion should state which evidence supports it, which assumptions remain untested, and what would change the interpretation."
+        ],
+        "bullets": ["What the available evidence does and does not indicate", "Which hypotheses remain open", "What additional evidence is proportionate", "Which decision options could be considered"]
+      },
+      {
+        "heading": "Limitations and potential outputs",
+        "paragraphs": [
+          "Public information can be incomplete, inconsistent, commercially biased, or out of date. The sample framework cannot establish actual demand, market size, purchase intent, or commercial performance.",
+          "Potential outputs include a market landscape, segment hypothesis register, evidence log, scope notes, and prioritised recommendations for validation. Deliverables are agreed before an engagement begins."
+        ],
+        "bullets": ["No exhaustive market sizing is implied", "No forecast or outcome guarantee", "Source quality and coverage are stated", "Further primary research may be separately scoped"]
+      }
+    ]
+  },
+  {
+    "slug": "competitor-comparison",
+    "category": "Competition",
+    "title": "Competitor Comparison",
+    "description": "A traceable comparison framework for public positioning, service descriptions, messaging, and observed differentiation.",
+    "question": "Which observable dimensions allow a team to compare a defined set of market alternatives without guessing at private strategy or performance?",
+    "illustrativeContext": "Hypothetical demonstration: a team is reviewing how a proposed service could be described relative to a shortlist of alternatives. No real competitors or market claims are included.",
+    "sections": [
+      {
+        "heading": "Comparison brief and competitor set",
+        "paragraphs": [
+          "Agree the business decision, intended audience, market boundary, geography, and the reason each organisation is included. Distinguish direct alternatives from adjacent substitutes and reference examples.",
+          "Record selection rules and exclusions before collecting evidence. A convenient list is not necessarily a representative competitor set."
+        ],
+        "bullets": ["Define direct and adjacent alternatives", "Set an inclusion rule and review date", "Record relevant geographies and buyer contexts", "Note missing organisations and why they were excluded"]
+      },
+      {
+        "heading": "Observable comparison dimensions",
+        "paragraphs": [
+          "Compare what can be observed consistently in public materials. Potential dimensions include stated target audience, service categories, published process descriptions, public messaging themes, stated proof points, and visible calls to action.",
+          "Do not infer private pricing, actual sales performance, customer satisfaction, internal capabilities, or strategic intent unless separately evidenced and within scope."
+        ],
+        "bullets": ["Published service and product descriptions", "Positioning language and stated audiences", "Publicly described methods and proof points", "Date and URL or document for every material observation"]
+      },
+      {
+        "heading": "Evidence capture and confidence",
+        "paragraphs": [
+          "Capture the exact public page or publication, its date where available, retrieval date, and relevant excerpt or paraphrase. Record when material is unavailable, ambiguous, or apparently outdated.",
+          "Use confidence notes to explain evidence completeness, not to suggest statistical certainty. A missing public statement should be recorded as not observed, rather than as evidence that the competitor does not offer a capability."
+        ],
+        "bullets": ["Consistent source log across all organisations", "Observed fact distinguished from analyst interpretation", "Unknown or unobserved values left explicit", "Potential conflicts or stale material flagged"]
+      },
+      {
+        "heading": "Matrix and synthesis",
+        "paragraphs": [
+          "Build a comparison matrix using the agreed dimensions and source references. Add a short synthesis that identifies recurring language, visible areas of differentiation, and questions for the commissioning team.",
+          "Avoid arbitrary league tables or unsupported scoring. If criteria are prioritised, explain who selected them and how that prioritisation relates to the business decision."
+        ],
+        "bullets": ["Comparison matrix with source references", "Themes across public positioning", "Differentiation hypotheses to test", "Questions for customer or stakeholder validation"]
+      },
+      {
+        "heading": "Illustrative synthesis format",
+        "paragraphs": [
+          "A practical output may show each observation, its source, its relevance to the decision, and any uncertainty. This example does not name organisations, report their actual positioning, or claim a competitive gap exists.",
+          "Recommendations should describe options for further consideration and validation, not promise that a specific positioning will win customers."
+        ],
+        "bullets": ["What appears consistently in the reviewed materials", "What is distinctive only within this selected set", "What remains unknown from public information", "What additional evidence could test an opportunity"]
+      },
+      {
+        "heading": "Limitations and potential outputs",
+        "paragraphs": [
+          "Public communications are not a full account of a business. Websites can change, messages may be tailored to particular buyers, and stated offers do not establish actual delivery or outcomes.",
+          "Potential outputs include a competitor matrix, a source register, positioning observations, limitations, and recommendations for further validation."
+        ],
+        "bullets": ["No private or confidential competitor information is assumed", "No performance or customer-result claims are inferred", "Coverage is limited to agreed organisations and sources", "Research reflects the review period"]
+      }
+    ]
+  },
+  {
+    "slug": "strategic-partner-assessment",
+    "category": "Partners",
+    "title": "Strategic Partner Assessment",
+    "description": "A decision framework for researching potential collaborators, recording evidence of fit, and prioritising appropriate next questions.",
+    "question": "How can a team create a transparent shortlist of organisations that may warrant a partnership conversation?",
+    "illustrativeContext": "Hypothetical demonstration: a consultancy is considering whether to explore complementary delivery relationships. No organisations, introductions, partnerships, or outcomes are real.",
+    "sections": [
+      {
+        "heading": "Partnership objective and guardrails",
+        "paragraphs": [
+          "State the business objective the potential relationship could support and identify what type of relationship is being considered. Referral, distribution, delivery, data, and product partnerships have different requirements.",
+          "Document non-negotiable requirements, excluded relationship types, geographic boundaries, and any reputational, regulatory, or operational considerations that require specialist review."
+        ],
+        "bullets": ["Business objective and intended value exchange", "Relationship type and candidate boundaries", "Required capabilities and constraints", "Approval, due-diligence, and escalation needs"]
+      },
+      {
+        "heading": "Candidate identification and screening",
+        "paragraphs": [
+          "Identify candidate organisations using documented inclusion criteria and attributable sources. Separate an initial longlist from any shortlist and state why candidates were selected for further consideration.",
+          "Screen for basic observable alignment such as service complementarity, stated customer focus, geography, and publicly described capabilities. Do not claim internal willingness or capacity from public materials."
+        ],
+        "bullets": ["Documented discovery and selection approach", "Basic public profile for each candidate", "Observed complementarity and potential overlap", "Known gaps requiring direct confirmation"]
+      },
+      {
+        "heading": "Strategic-fit criteria",
+        "paragraphs": [
+          "Agree fit criteria with the commissioning team before comparing candidates. Criteria may include strategic relevance, complementarity, customer overlap, delivery dependencies, and evidence confidence.",
+          "If a scoring rubric is used, make the definitions, weighting, and evidence basis explicit. Scores organise discussion; they do not prove partner suitability."
+        ],
+        "bullets": ["Criteria, definitions, and any agreed weighting", "Evidence references for each observation", "Risks, dependencies, and unknowns", "Rationale for prioritisation or deferral"]
+      },
+      {
+        "heading": "Relationship hypothesis and diligence questions",
+        "paragraphs": [
+          "Frame a potential collaboration as a hypothesis that requires confirmation by both parties. Identify questions about incentives, responsibilities, customer experience, data handling, governance, and operational readiness.",
+          "Business intelligence research cannot substitute for legal, financial, security, or compliance due diligence. Flag when a specialist review is required before proceeding."
+        ],
+        "bullets": ["Possible value exchange to validate", "Roles and customer-facing responsibilities", "Data, confidentiality, and governance questions", "Specialist due diligence or approval requirements"]
+      },
+      {
+        "heading": "Illustrative assessment format",
+        "paragraphs": [
+          "A report can include candidate profiles, a transparent criteria matrix, evidence references, open questions, and a prioritised discussion list. This illustrative document contains no real candidates or partner recommendations.",
+          "An initial research priority indicates where further exploration may be useful; it is not an endorsement, introduction, or confirmation that a relationship can be formed."
+        ],
+        "bullets": ["Candidate and evidence register", "Fit observations with unknowns made visible", "Potential discussion questions", "Recommended next diligence steps"]
+      },
+      {
+        "heading": "Limitations and potential outputs",
+        "paragraphs": [
+          "Public information cannot establish intent, availability, financial health, contractual suitability, or willingness to collaborate. Information can also be incomplete or become outdated.",
+          "Potential outputs include an organisation longlist, researched profiles, a fit-criteria worksheet, a source log, and next-step questions for the client's own outreach and diligence."
+        ],
+        "bullets": ["No contact is made on the client's behalf unless separately agreed", "No endorsement or verified relationship is implied", "No legal or financial due-diligence opinion", "Candidate coverage follows the agreed selection scope"]
+      }
+    ]
+  },
+  {
+    "slug": "ai-technology-trend-scan",
+    "category": "Technology",
+    "title": "AI and Technology Trend Scan",
+    "description": "A source-aware framework for screening technology developments and evaluating their possible relevance without presenting early claims as forecasts.",
+    "question": "How can a business screen technology developments for relevance and decide what warrants further investigation?",
+    "illustrativeContext": "Hypothetical demonstration: a B2B service team is reviewing whether to investigate selected AI-enabled workflow tools. No technology capability, vendor claim, or market outcome is asserted as fact here.",
+    "sections": [
+      {
+        "heading": "Decision context and horizon",
+        "paragraphs": [
+          "Begin with a specific business workflow, strategic decision, audience, and review horizon. A general request to assess AI is too broad to produce a useful, bounded scan.",
+          "Record current processes, constraints, risk tolerance, data considerations, and decision owners as supplied context. Keep that information distinct from externally researched evidence."
+        ],
+        "bullets": ["Workflow or business question under review", "Decision horizon and intended audience", "Operational and data constraints", "Out-of-scope technologies or uses"]
+      },
+      {
+        "heading": "Technology and claim taxonomy",
+        "paragraphs": [
+          "Group developments into relevant capability or application themes and describe each claim precisely. Distinguish product availability, stated vendor capability, independently demonstrated performance, and analyst interpretation.",
+          "Record the source publisher, date, context, and claim. A demonstration, benchmark, launch announcement, and customer case study have different evidential roles."
+        ],
+        "bullets": ["Capability or application category", "Claim type and attribution", "Publication date and context", "Evidence needed to verify business relevance"]
+      },
+      {
+        "heading": "Evidence quality and uncertainty",
+        "paragraphs": [
+          "Review sources for attribution, methodology, recency, independence, scope, and incentives. Note where claims are self-reported, where methods are unclear, and where evidence cannot be independently checked.",
+          "Technology changes quickly. Capture the review date and avoid translating a short-term signal into a prediction or adoption recommendation without suitable evidence."
+        ],
+        "bullets": ["Source register and review date", "Independent corroboration where available", "Claim limitations and missing information", "Uncertainty and update triggers"]
+      },
+      {
+        "heading": "Business relevance assessment",
+        "paragraphs": [
+          "Compare candidate developments against agreed practical criteria such as relevance to the workflow, feasibility of evaluation, data sensitivity, integration dependency, governance requirement, and potential user impact.",
+          "Use a simple qualitative screen to identify questions for further assessment. A scan is not an implementation design, procurement recommendation, or security review."
+        ],
+        "bullets": ["Business problem alignment", "Evidence strength and uncertainty", "Operational dependencies and governance questions", "Possible low-risk evaluation steps"]
+      },
+      {
+        "heading": "Illustrative synthesis format",
+        "paragraphs": [
+          "A decision brief may present a theme map, source and claim register, potential implications, evidence limitations, and questions for a technical or operational review. This demonstration contains no real vendor evaluations or trend findings.",
+          "Any recommendation should state the evidence and assumptions behind it and identify which specialist review is needed before procurement or deployment."
+        ],
+        "bullets": ["What the scan reviewed and when", "Claims that remain unverified", "Potential business implications to investigate", "Questions for technical, legal, privacy, and security specialists"]
+      },
+      {
+        "heading": "Limitations and potential outputs",
+        "paragraphs": [
+          "Emerging technology claims can change rapidly, be difficult to reproduce, and omit context relevant to a specific business. Public materials alone cannot establish suitability, safety, compliance, or return on investment.",
+          "Potential outputs include a technology scan, a claim/source register, relevance questions, a limitation log, and a shortlist of issues for specialist assessment."
+        ],
+        "bullets": ["Not a forecast or investment recommendation", "Not technical, legal, privacy, or security assurance", "No adoption or performance guarantee", "Review and update cadence agreed separately"]
+      }
+    ]
+  }
+]
